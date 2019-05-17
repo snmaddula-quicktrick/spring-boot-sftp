@@ -1,1 +1,1 @@
-# [COMPONENT] Spring Integration SFTP -- S3 / PCF
+# [COMPONENT] Spring Integration SFTP - S3 / PCF
