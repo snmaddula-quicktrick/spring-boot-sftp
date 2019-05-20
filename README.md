@@ -1,1 +1,1 @@
-# [COMPONENT] Spring Integration SFTP - S3 / PCF
+# [POC] Spring Boot SFTP File Transfer
