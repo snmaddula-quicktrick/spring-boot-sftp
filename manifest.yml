@@ -1,0 +1,7 @@
+---
+applications:
+- name: sftp-poc
+  instances: 1
+  memory: 1G
+  disk_quota: 1G
+  path: "target/sftp-poc.jar"
