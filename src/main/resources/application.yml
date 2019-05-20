@@ -1,1 +1,22 @@
 
+spring:
+  servlet:
+    multipart:
+      enabled: true
+      file-size-threshold: 1MB
+      max-file-size: 50MB
+      max-request-size: 80MB
+
+sftp:
+  port: 22
+  host: hostname
+  username: username
+  passphrase: secret
+  prvkey: classpath:/private_key
+
+  
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
